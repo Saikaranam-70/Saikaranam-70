@@ -78,7 +78,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs,tailwind,bootstrap,android" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs,tailwind,bootstrap,android,angular,dotnet" />
 
 </td>
 
@@ -88,7 +88,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 <br/><br/>
 
 </td>
